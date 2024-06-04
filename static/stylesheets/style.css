@@ -101,9 +101,8 @@ button.b {
 }
 
 #choice button img {
-  width: 50px; /* 이미지 폭을 늘릴 수 있습니다. */
-  height: 50px; /* 이미지 높이를 늘릴 수 있습니다. */
-  margin-right: 10px;
+  max-width: 100%; /* 이미지 폭을 늘릴 수 있습니다. */
+  max-height: 100%; /* 이미지 높이를 늘릴 수 있습니다. */
 }
 
 #choice button.a:hover {
