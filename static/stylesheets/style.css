@@ -87,8 +87,8 @@ button.b {
 #choice button {
   display: flex;
   align-items: center;
-  height: 200px;
-  width: 530px;
+  height: 500px;
+  width: 830px;
   border: none;
   color: white;
   text-transform: uppercase;
